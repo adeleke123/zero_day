@@ -121,7 +121,7 @@ Tasks
 You will need Git for this project, you might have to [install it](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your computer if it’s not done yet.
 
 - Configure your basic info (name, email) on your local machine – they will be part of your commits. [Tips](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
-On [GitHub.com]:(https://github.com/)
+On [GitHub.com](https://github.com/)
 
 - Using the graphic interface on the website, create the repository (if it’s not done yet)
 - Description: `This is my first repository as a full-stack engineer`
